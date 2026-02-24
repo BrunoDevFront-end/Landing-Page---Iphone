@@ -24,7 +24,7 @@ export default function Home() {
             <ul className="flex items-center justify-between py-3 sm:py-4">
               <li>
                 <Image
-                  src="/imagens/logo.png"
+                  src="/logo.png"
                   alt="Logo"
                   width={30}
                   height={30}
