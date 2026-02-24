@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+}
+
+ul {
+  list-style: none;
+}
+
+.bottom-header-inner a {
+  margin: 0 0.5rem;
+}
